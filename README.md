@@ -10,8 +10,10 @@ Github Repo: https://github.com/TanishqDsharma/nervous-network-task-7/tree/main/
 
 ### If you deployed any smart contracts as part of this tutorial, please provide the transaction hash of the deployment transaction, the deployed contract address, and the ABI of the deployed smart contract. (Provide all in text format.)
 
-Deployed Contract Address: 0x905AF1978e68e2078f62E19c45ca8034109c9098
-Deployed transaction hash: 0x0636d3eafc80e659dd02487ba02886ff647f4477d580d15e2b102a5ba948d71a
+<b>Deployed Contract Address:</b> 0x905AF1978e68e2078f62E19c45ca8034109c9098
+
+
+<b>Deployed transaction hash:</b> 0x0636d3eafc80e659dd02487ba02886ff647f4477d580d15e2b102a5ba948d71a
 
 ABI code:
 
