@@ -23,7 +23,6 @@ Github Repo: https://github.com/TanishqDsharma/nervous-network-task-7/tree/main/
 
 <b>Deployed Contract Address:</b> 0x0C90DEdAe155C09c07Adb8d86ef88eAA3fd2e796
 
-<b>Deployed transaction hash:</b> 
 
 ABI code:
 
