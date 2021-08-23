@@ -8,11 +8,11 @@
 
 2) Deployed contract:
 
-![alt text](https://github.com/TanishqDsharma/nervous-network-task-7/blob/main/task7.png)
+![alt text](https://github.com/TanishqDsharma/nervous-network-task-7/blob/main/task7.1.png)
 
 3)List Tasks:
 
-![alt text](https://github.com/TanishqDsharma/nervous-network-task-7/blob/main/task7.png)
+![alt text](https://github.com/TanishqDsharma/nervous-network-task-7/blob/main/task7.2.png)
 
 
 ### Link to the GitHub repository with your application which has been ported to Godwoken. This must be a different application than the one covered in this guide.
