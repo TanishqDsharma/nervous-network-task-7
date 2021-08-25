@@ -4,15 +4,13 @@
 
 1)Deploy contract by clicking on "deploy contract button"
 
-![alt text](https://github.com/TanishqDsharma/nervous-network-task-7/blob/main/task7.png)
 
-2) Deployed contract:
 
-![alt text](https://github.com/TanishqDsharma/nervous-network-task-7/blob/main/task7.1.png)
+2):
 
-3)List Tasks:
 
-![alt text](https://github.com/TanishqDsharma/nervous-network-task-7/blob/main/task7.2.png)
+3)Get Music Library:
+
 
 
 ### Link to the GitHub repository with your application which has been ported to Godwoken. This must be a different application than the one covered in this guide.
